@@ -1,0 +1,37 @@
+{
+  "name": "react-menude",
+  "version": "1.0.0",
+  "description": "React menu component",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcoosp/react-menude.git"
+  },
+  "keywords": [],
+  "author": "elcoosp <elcoosp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elcoosp/react-menude/issues"
+  },
+  "homepage": "https://github.com/elcoosp/react-menude#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "style-loader": "^0.21.0",
+    "styled-components": "^3.3.3",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
